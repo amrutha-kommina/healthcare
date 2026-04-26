@@ -1,7 +1,7 @@
 import React from "react";
 import { Phone, MapPin, Mail, Clock } from "lucide-react";
 import { motion } from "framer-motion";
-import SectionReveal from "./components/sectionReveal"; // or "./SectionReveal"
+import SectionReveal from "./sectionReveal";
 
 const Contact = () => {
   const data = [

@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import SectionReveal from "./components/sectionReveal"; 
+import  SectionReveal from "./sectionReveal";
 
 const doctors = [
   {

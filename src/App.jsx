@@ -2,13 +2,13 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Welcome from "./components/Welcome";
 import Specialties from "./components/Specialities";
-import Doctors from "./Doctors";
+import Doctors from "./components/Doctors";
 import HealthConditions from "./components/HealthConditions";
-import Appointment from "./Appointments";
+import Appointment from "./components/Appointments";
 import Feedback from "./components/Feedback";
-import Contact from "./Contact";
+import Contact from "./components/Contact";
 import EmergencyHospitals from "./components/EmergencyHospitals";
-import Footer from "./Footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
