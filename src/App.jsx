@@ -6,6 +6,7 @@ import Doctors from "./Doctors";
 import HealthConditions from "./components/HealthConditions";
 import Appointment from "./Appointments";
 import Contact from "./Contact";
+import EmergencyHospitals from "./components/EmergencyHospitals";
 import Footer from "./Footer";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <HealthConditions/>
         <Appointment />
         <Contact />
+        <EmergencyHospitals />
       </main>
       <Footer />
     </div>

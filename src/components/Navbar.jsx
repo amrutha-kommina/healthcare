@@ -55,6 +55,9 @@ const Navbar = () => {
             <a href="#doctors" className="hover:text-sky-300 transition">Doctors</a>
             <a href="#conditions" className="hover:text-sky-300 transition">Conditions</a>
             <a href="#contact" className="hover:text-sky-300 transition">Contact</a>
+            <a href="#emergency" className="hover:text-sky-300 transition text-red-300">
+    Emergency
+  </a>
           </nav>
 
           <div className="flex items-center gap-5">
