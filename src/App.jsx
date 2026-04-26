@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Welcome from "./components/Welcome";
 import Specialties from "./components/Specialities";
 import Doctors from "./Doctors";
+import HealthConditions from "./components/HealthConditions";
 import Appointment from "./Appointments";
 import Contact from "./Contact";
 import Footer from "./Footer";
@@ -16,6 +17,7 @@ function App() {
         <Welcome />
         <Specialties />
         <Doctors />
+        <HealthConditions/>
         <Appointment />
         <Contact />
       </main>

@@ -53,6 +53,7 @@ const Navbar = () => {
             <a href="#about" className="hover:text-sky-300 transition">About us</a>
             <a href="#services" className="hover:text-sky-300 transition">Services</a>
             <a href="#doctors" className="hover:text-sky-300 transition">Doctors</a>
+            <a href="#conditions" className="hover:text-sky-300 transition">Conditions</a>
             <a href="#contact" className="hover:text-sky-300 transition">Contact</a>
           </nav>
 
