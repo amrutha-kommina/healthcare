@@ -5,6 +5,7 @@ import Specialties from "./components/Specialities";
 import Doctors from "./Doctors";
 import HealthConditions from "./components/HealthConditions";
 import Appointment from "./Appointments";
+import Feedback from "./components/Feedback";
 import Contact from "./Contact";
 import EmergencyHospitals from "./components/EmergencyHospitals";
 import Footer from "./Footer";
@@ -20,6 +21,7 @@ function App() {
         <Doctors />
         <HealthConditions/>
         <Appointment />
+        <Feedback />
         <Contact />
         <EmergencyHospitals />
       </main>
